@@ -1,0 +1,34 @@
+{
+   "wallpapers": [
+      {
+         "author": " ",
+         "url": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/1.jpg",
+         "name": "wallpaper-1",
+         "thumbnail": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/1.jpg"
+      },
+      {
+         "author": " ",
+         "url": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/2.jpg",
+         "name": "wallpaper-2",
+         "thumbnail": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/2.jpg"
+      },
+      {
+         "author": " ",
+         "url": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/3.jpg",
+         "name":"wallpaper-3",
+         "thumbnail": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/3.jpg"
+      },
+      {
+         "author": " ",
+         "url": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/4.jpg",
+         "name": "wallpaper-4",
+         "thumbnail": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/4.jpg"
+      },
+      {
+         "author": " ",
+         "url": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/5.jpg",
+         "name": "Tree Farm",
+         "thumbnail": "https://raw.githubusercontent.com/yoonun/NXiconpack/master/5.jpg"
+      }    
+   ]
+}
